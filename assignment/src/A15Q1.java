@@ -4,7 +4,7 @@ import java.util.*;
 abstract class Shape {
     protected double length, breadth, height;
 
-    // Constructor
+    // Constructor:
     Shape(double l, double b, double h) {
         length = l;
         breadth = b;
